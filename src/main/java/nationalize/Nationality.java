@@ -68,8 +68,6 @@ public class Nationality {
             this.probability = probability;
         }
 
-
-
     }
 
 }
